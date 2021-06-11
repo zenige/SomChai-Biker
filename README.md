@@ -16,7 +16,7 @@ in case you need to use Somchai model leave a method
 
 - filename //name of your input file our script accept 3 types 1. image  2.video 3.device type 0 in filename to use webcam
 
-4. Result will show at runs/detect/ 
+- Result will show at runs/detect/ 
 <H1>More Argument</H1>
 
    '--weights', nargs='+', type=str, default=somchaimodel.pt', help='model.pt path(s)')
